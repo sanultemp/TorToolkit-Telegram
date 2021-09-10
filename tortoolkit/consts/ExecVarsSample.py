@@ -5,20 +5,20 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = "9d899494918fce2ea9c106c9879f64de"
-        API_ID = 7801061
-        BOT_TOKEN = "1954845428:AAG5eKdyJ5_gXYbYT1wtIeMXy0M1-blZEbk"
-        BASE_URL_OF_BOT = "http://38.91.106.96"
+        API_HASH = "4d4023337b8cc46c306af69adb5fc21a"
+        API_ID = 7469109
+        BOT_TOKEN = "1958964798:AAF_7GJRP7SwJXv-jXj51QaZAdeI2RKCPHU"
+        BASE_URL_OF_BOT = "http://112.134.156.3"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [-520316754]
-        OWNER_ID = 1959341383
+        ALD_USR = [-1001573245927]
+        OWNER_ID = 1924738248
         
         # Google Drive Index Link should include the base dir also See readme for more info
-        GD_INDEX_URL = False
+        GD_INDEX_URL = https://flixcinemastorage.flixcinemalk.workers.dev/0:
 
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 40
