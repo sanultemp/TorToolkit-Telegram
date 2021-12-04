@@ -7,18 +7,18 @@ except:
         
         API_HASH = "4d4023337b8cc46c306af69adb5fc21a"
         API_ID = 7469109
-        BOT_TOKEN = "1958964798:AAF_7GJRP7SwJXv-jXj51QaZAdeI2RKCPHU"
-        BASE_URL_OF_BOT = "http://112.134.156.3"
+        BOT_TOKEN = "5040975018:AAHu-3yNjQHhGd8Ho3zIFQgEYPr5e7g2T5Y"
+        BASE_URL_OF_BOT = "http://35.197.93.87"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [-1001573245927]
-        OWNER_ID = 1924738248
+        ALD_USR = [-1001516237874]
+        OWNER_ID = 2118362497
         
         # Google Drive Index Link should include the base dir also See readme for more info
-        GD_INDEX_URL = https://flixcinemastorage.flixcinemalk.workers.dev/0:
+        GD_INDEX_URL = False
 
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 40
@@ -36,10 +36,10 @@ except:
         REMAINING_STR = "▱"
 
         # DB URI for access
-        DB_URI = "mongodb+srv://mirrorbot:10103030c@cluster0.dprd3.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+        #DB_URI = "mongodb+srv://mirrorbot:10103030c@cluster0.dprd3.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
         
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
-        #DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"
+        DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"
         
         # MEGA CONFIG
         MEGA_ENABLE = False
